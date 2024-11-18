@@ -1,4 +1,3 @@
-edit
 //Ex1(1ere méthode)
 // function X(){
 //     console.log("bonjour,l monde!");
